@@ -10,10 +10,10 @@ __author__ = 'Michael Liao'
 configs = {
     'debug': True,
     'db': {
-        'host': '127.0.0.1',
+        'host': '192.168.12.128',
         'port': 3306,
-        'user': 'www',
-        'password': 'www',
+        'user': 'www-data',
+        'password': 'www-data',
         'db': 'awesome'
     },
     'session': {

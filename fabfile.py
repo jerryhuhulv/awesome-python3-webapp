@@ -12,9 +12,9 @@ import os, re
 from datetime import datetime
 from fabric.api import *
 
-env.user = 'michael'
+env.user = 'jerry'
 env.sudo_user = 'root'
-env.hosts = ['192.168.0.3']
+env.hosts = ['192.168.12.128']
 
 db_user = 'www-data'
 db_password = 'www-data'
