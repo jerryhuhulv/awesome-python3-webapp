@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*- abc
+# -*- coding: utf-8 -*- abcd
 
 '''
 Default configurations.
